@@ -38,7 +38,7 @@ class ListIterator {
 
 
 
-2. LinkedList iterator
+//2. LinkedList iterator
 //Yu Wang
 class ListNode {
   public int value;
@@ -69,7 +69,7 @@ class LLIterator {
 
 
 
-3. Binary Tree's iterator
+//3. Binary Tree's iterator
 //He Zhong
 //Level order;
 class TreeNode {
@@ -98,19 +98,8 @@ class TreeIterator {
   }
 }
 
-
-
-
-
-
-
-
-4. Graph Iterator
-
-
+//4. Graph Iterator
 // Ruoyu Wang
-
-
 class GraphNode {
 	public int value;
 	public List<GraphNode> nei;
@@ -138,7 +127,7 @@ class GraphIterator {
 	}
 }
 
-5. List of List Iterator
+//5. List of List Iterator
 // Yi Ling
 class ListIterator {
 	List<List<String>> cur;
